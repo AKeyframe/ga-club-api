@@ -24,4 +24,6 @@ ActiveRecord::Schema.define(version: 2021_11_04_143533) do
     t.text "cart", default: [], array: true
   end
 
+
+
 end
